@@ -1,2 +1,2 @@
 # bhive
-Social Ecommerse
+Social Ecommerce
